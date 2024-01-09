@@ -6,7 +6,7 @@ datetime
 matplotlib
 altair 
 seaborn
-sklearn
+scikit-learn
 scipy
 os
 plotly
