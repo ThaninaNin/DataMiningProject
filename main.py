@@ -28,6 +28,7 @@ import svm
 import Rn
 import AD
 
+st.set_option('deprecation.showPyplotGlobalUse', False)
 
 
 # The code below is for the title and logo for this page.
