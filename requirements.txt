@@ -8,6 +8,5 @@ altair
 seaborn
 scikit-learn
 scipy
-os
 plotly
 keras
